@@ -3,7 +3,7 @@
 
 **Installation**
 ```python
-pip install aparatdl==1.0.0
+pip install aparatdl
 ```
 
 **usage**
