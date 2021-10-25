@@ -37,6 +37,3 @@ class Main:
                     print("\r[%s %s]" % ('=' * done, ' ' * (50 - done)), end='')
         print('\nvideo downloaded...')
 
-m = Main('https://www.aparat.com/v/7CUzr/','144')
-m.download()
-# print(m.speed_download())
